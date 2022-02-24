@@ -21,7 +21,14 @@ nav ul li a:active {
     font-style: italic;
 }
 
-
+/* jumbotron */
+.jumbotron {
+    background-image: url(img/gambar-2.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
 
 
 section {
