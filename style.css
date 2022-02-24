@@ -52,6 +52,13 @@ hr {
     background-color: #f7eeff;
 }
 
+.garis {
+    width: 5px;
+    height: 38px;
+    background-color: #435add;
+    margin-top: -48px;
+}
+
 
 
 .beritaterkini {
