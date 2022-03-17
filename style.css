@@ -75,6 +75,16 @@ hr {
     color: #0d6efd;
 }
 
+.gaserbu img {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+}
+
+.gaserbu p {
+    font-size: 12px;
+    font-weight: 200;
+}
+
 
 
 /* store */
@@ -82,7 +92,7 @@ hr {
     background-color: #f7eeff;
 }
 
-.img-thumbnail:hover {
+.img-thumbnaill:hover {
     transform: scale(1);
     box-shadow: 0 0 10px rgba(22, 6, 245, 0.164);
     border: 1px solid blue;
